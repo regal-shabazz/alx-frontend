@@ -35,7 +35,7 @@
   --section-tagline-transform: uppercase;
 
   /* section margin & color */
-  --section-title-color: #000;
+  --section-title-color: var(--color-black);
   --section-title-margin: 0;
 }
 
